@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students subject="Computer science">
+	<student>
+		<name>Katarzyna</name>
+		<surname>Nowicka</surname>
+	</student>
+	<student index="234567">
+		<name>Anna</name>
+		<surname>Nowicka</surname>
+		<contact>
+			<phone/>
+			<mail>anna@a.bc</mail>
+		</contact>
+	</student>
+	<student index="123456">
+		<name>Adam</name>
+		<surname>Nowak</surname>
+		<contact>
+			<phone>111-456-789</phone>
+			<mail>adam@a.bc</mail>
+		</contact>
+	</student>
+	<rss>
+		<student index="111535">
+			<name>Katarzyna</name>
+			<surname>Nowicka</surname>
+			<contact>
+				<phone>123-456-789</phone>
+				<mail>a@a.bc</mail>
+			</contact>
+		</student>
+		<student index="123456">
+			<name>Adam</name>
+			<surname>Nowakowski</surname>
+			<contact>
+				<phone>111-456-789</phone>
+				<mail>adam@a.bc</mail>
+			</contact>
+		</student>
+		<student index="345678">
+			<name>Jan</name>
+			<surname>Kowalski</surname>
+			<contact>
+				<phone>123-555-789</phone>
+				<mail>jan@a.bc</mail>
+			</contact>
+		</student>
+	</rss>
+	<rw>
+		<rss>
+			<student index="345678">
+				<name>Jan</name>
+				<surname>Kowalski</surname>
+				<contact>
+					<phone>123-555-789</phone>
+				</contact>
+			</student>
+			<student index="345678">
+				<name>Antoni</name>
+				<surname>Kowalski</surname>
+				<contact>
+					<phone>123-355-789</phone>
+					<mail>jan@a.bc</mail>
+				</contact>
+			</student>
+		</rss>
+	</rw>
+</students>
